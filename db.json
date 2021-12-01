@@ -1,0 +1,224 @@
+{
+  "products": [
+    {
+      "image": "https://pbs.twimg.com/media/E48VaX4WYAEJJb5.jpg",
+      "name": "Forza Horizon 5",
+      "category": "Гонки, Симулятор, Открытый мир",
+      "description": "Вас ждёт бесконечный калейдоскоп приключений Horizon! Совершайте увлекательные поездки по невероятно красивому и самобытному миру Мексики за рулём величайших автомобилей в истории. Начните своё приключение Horizon уже сегодня, добавив игру в свой список желаний!",
+      "price": 2450,
+      "video": "https://www.youtube.com/embed/FYH9n37B7Yw",
+      "id": 1
+    },
+    {
+      "image": "https://sukaon.b-cdn.net/wp-content/uploads/2021/09/f6oOAnEg0J-1000x600.jpeg",
+      "name": "Battlefield 2042",
+      "category": "Экшен, Шутер, Война",
+      "description": "Battlefield™ 2042 — это шутер от первого лица, в котором серия возвращается к легендарным масштабным сражениям. В будущем, где царит хаос, адаптируйтесь и процветайте на постоянно меняющихся полях боя благодаря своему отряду и арсеналу новейших технологий.",
+      "price": 2300,
+      "video": "https://www.youtube.com/embed/ASzOzrB-a9E",
+      "id": 2
+    },
+    {
+      "image": "https://i.ytimg.com/vi/p1e3tTAMCt8/maxresdefault.jpg",
+      "name": "Metro exodus",
+      "category": "Шутер от первого лица, Постапокалиптика, Survival horror",
+      "description": "Metro Exodus рус. «Метро Исход» — мультиплатформенная игра в жанре «шутер от первого лица» с элементами сурвайвал-хоррора и стелс-экшена по мотивам «Вселенной Метро 2033",
+      "price": 4651,
+      "video": "https://www.youtube.com/embed/Yt67BHd-oRA",
+      "id": 3
+    },
+    {
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202103/1012/MrFkXNqIim5naTegtJuGDTEb.png",
+      "name": "Life is Strange True Colors",
+      "category": "Глубокий сюжет, Протагонистка",
+      "description": "Алекс Чэнь от всех скрывает своё «проклятие» — сверхъестественную способность считывать сильные эмоции других и влиять на них. Но когда её брат погибает — якобы в результате несчастного случая, — Алекс использует её, чтобы узнать правду",
+      "price": 1251,
+      "video": "https://www.youtube.com/embed/b6CkzwVAr0M",
+      "id": 4
+    },
+    {
+      "image": "https://cdn.windowsreport.com/wp-content/uploads/2020/06/Rainbow-Six-Siege-packet-loss.jpg",
+      "name": "Tom Clancy's Rainbow Six® Siege",
+      "category": "Тактика, Шутер",
+      "description": "Tom Clancy's Rainbow Six Осада – это продолжение нашумевшего шутера от первого лица, разработанного студией Ubisoft Montreal.",
+      "price": 545,
+      "video": "https://www.youtube.com/embed/6wlvYh0h63k",
+      "id": 5
+    },
+    {
+      "image": "https://i.playground.ru/p/2v9TGshHqew4EbRegevX0g.jpeg",
+      "name": "Grand Theft Auto V",
+      "category": "Открытый мир, Экшен",
+      "description": "Grand Theft Auto V для PC позволяет игрокам исследовать знаменитый мир Лос-Сантоса и округа Блэйн в разрешении до 4k и выше с частотой 60 кадров в секунду.",
+      "price": 1532,
+      "video": "https://www.youtube.com/embed/QkkoHAzjnUs",
+      "id": 6
+    },
+    {
+      "image": "https://cdn1.ozone.ru/s3/multimedia-u/6032030562.jpg",
+      "name": "Assassin’s Creed Valhalla",
+      "category": "Открытый мир, Паркур, РПГ",
+      "description": "Assassin’s Creed Valhalla — мультиплатформенная компьютерная игра в жанре action/RPG, разработанная студией Ubisoft Montreal под издательством компании Ubisoft. Является двенадцатой игрой в серии игр Assassin’s Creed.",
+      "price": 1532,
+      "video": "https://www.youtube.com/embed/ssrNcwxALS4",
+      "id": 7
+    },
+    {
+      "image": "https://i.playground.ru/p/VJ6VgXijaMBxK4xpopFAFw.jpeg",
+      "name": "Metro 2033 Redux",
+      "category": "Шутер от первого лица, Постапокалиптика, Survival horror",
+      "description": "Metro 2033 — видеоигра в жанрах FPS и Survival horror. Сюжет игры основывается на одноимённом романе Дмитрия Глуховского «Метро 2033». Разработкой игры занималась украинская компания 4A Games, большинство сотрудников которой ранее работали в GSC Game World, которая является разработчиком «S.T.A.L.K.E.R.» по мотивам произведения братьев Стругацких «Пикник на обочине».",
+      "price": 1532,
+      "video": "https://www.youtube.com/embed/Yt67BHd-oRA",
+      "id": 8
+    },
+    {
+      "image": "https://vsthemes.org/uploads/posts/2020-01/1580464416_vsthemes_ru-25.jpg",
+      "name": "PlayerUnknown’s Battlegrounds",
+      "category": "Королевская битва, Шутер от третего лица, Шутер от первого лица",
+      "description":  "PlayerUnknown’s Battlegrounds (сокр. PUBG, также известна как PUBG: Battlegrounds) — многопользовательская онлайн-игра в жанре королевской битвы, разрабатываемая и издаваемая студией PUBG Corporation, дочерней компанией корейского издателя Bluehole. Официальной дистрибуцией игры на территории России занимается Mail.Ru Group[3][4]. Игра основана на предыдущих модификациях для других игр, созданных Бренданом Грином (англ. Brendan Greene) под псевдонимом «PlayerUnknown», концепция которых была вдохновлена японским фильмом «Королевская битва» 2000 года. В итоге это привело к созданию самостоятельной игры, где Грин выступил в качестве ведущего геймдизайнера. В игре до 100 игроков, которые десантируются на остров, после чего ищут снаряжение и оружие, чтобы убить других участников и при этом самим остаться в живых. Доступная безопасная зона на внутриигровой карте со временем начинает уменьшаться, делая доступное пространство более тесным, чтобы сталкивать игроков между собой. Последний выживший игрок или команда побеждает в раунде.",
+      "price": 2132,
+      "video": "https://www.youtube.com/embed/URBy9t6e8rY",
+      "id": 9
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/ru/thumb/8/8d/%D0%9E%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0_%D0%B8%D0%B3%D1%80%D1%8B_Darksiders_%D0%B4%D0%BB%D1%8F_X-box_360.jpg/274px-%D0%9E%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0_%D0%B8%D0%B3%D1%80%D1%8B_Darksiders_%D0%B4%D0%BB%D1%8F_X-box_360.jpg",
+      "name": "Darksiders",
+      "category": "hack and slash",
+      "description":  "Darksiders: Wrath of War (Поборники тьмы: Гнев Войны) — компьютерная игра в жанре слешер, разработанная компанией Vigil Games и изданная THQ. Игра берёт свой сюжет из пророчества об апокалипсисе, предоставляя игроку возможность сыграть за одного из его всадников Апокалипсиса — Войну. Игра была выпущена для Xbox 360 и PlayStation 3 5 января 2010 года в Северной Америке и 8 января в Европе. Выход PC-версии Darksiders состоялся в сентябре 2010 года (16 сентября в Северной Америке и 24 сентября — в Европе). В 2012 году вышло продолжение игры — Darksiders II.",
+      "price": 2132,
+      "video": "https://www.youtube.com/embed/2Gkv1we5otE",
+      "id": 10
+    },
+    {
+      "image": "https://mfiles.alphacoders.com/844/844463.jpg",
+      "name": "Darksiders II",
+      "category": "hack and slash, Action/RPG",
+      "description":  "Darksiders II: Death Lives (Поборники тьмы II: Смерть живёт) — компьютерная игра в жанрах слешер и action RPG[3][4], разработанная компанией Vigil Games и изданная THQ. Игра является прямым продолжением Darksiders. В Darksiders II игроку даётся возможность сыграть за другого всадника Апокалипсиса — Смерть, который решил искупить грехи своего брата Войны. Игра вышла 14 августа 2012 года на Windows, PlayStation 3, Xbox 360, также 18 ноября на Wii U, а 27 октября 2015 года вышло переиздание на Playstation 4 и Xbox One. В 2018 году вышло продолжение игры — Darksiders III.",
+      "price": 2132,
+      "video": "https://www.youtube.com/embed/2BFpWELK2dY",
+      "id": 11
+    },
+    {
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co1qqk.jpg",
+      "name": "Darksiders III",
+      "category": "hack and slash, Action/RPG",
+      "description":  "Darksiders III — компьютерная игра в жанрах слешер, action RPG и action-adventure. Разработчиком игры выступила студия Gunfire Games, а издателем — компания THQ Nordic[1]. Игра вышла на платформах PlayStation 4, Xbox One и Windows в 2018 году. Darksiders III является продолжением компьютерной игры Darksiders II и третьей частью серии игр Darksiders.На этот раз игра ведется за еще одного из Всадников Апокалипсиса, единственного среди них персонажа женского пола — Ярость.",
+      "price": 1032,
+      "video": "https://www.youtube.com/embed/SttjjKgf7N8",
+      "id": 12
+    },{
+      "image": "https://pbs.twimg.com/media/E48VaX4WYAEJJb5.jpg",
+      "name": "Forza Horizon 5",
+      "category": "Гонки, Симулятор, Открытый мир",
+      "description": "Вас ждёт бесконечный калейдоскоп приключений Horizon! Совершайте увлекательные поездки по невероятно красивому и самобытному миру Мексики за рулём величайших автомобилей в истории. Начните своё приключение Horizon уже сегодня, добавив игру в свой список желаний!",
+      "price": 2450,
+      "video": "https://www.youtube.com/embed/FYH9n37B7Yw",
+      "id": 13
+    },
+    {
+      "image": "https://sukaon.b-cdn.net/wp-content/uploads/2021/09/f6oOAnEg0J-1000x600.jpeg",
+      "name": "Battlefield 2042",
+      "category": "Экшен, Шутер, Война",
+      "description": "Battlefield™ 2042 — это шутер от первого лица, в котором серия возвращается к легендарным масштабным сражениям. В будущем, где царит хаос, адаптируйтесь и процветайте на постоянно меняющихся полях боя благодаря своему отряду и арсеналу новейших технологий.",
+      "price": 2300,
+      "video": "https://www.youtube.com/embed/ASzOzrB-a9E",
+      "id": 14
+    },
+    {
+      "image": "https://i.ytimg.com/vi/p1e3tTAMCt8/maxresdefault.jpg",
+      "name": "Metro exodus",
+      "category": "Шутер от первого лица, Постапокалиптика, Survival horror",
+      "description": "Metro Exodus рус. «Метро Исход» — мультиплатформенная игра в жанре «шутер от первого лица» с элементами сурвайвал-хоррора и стелс-экшена по мотивам «Вселенной Метро 2033",
+      "price": 4651,
+      "video": "https://www.youtube.com/embed/Yt67BHd-oRA",
+      "id": 15
+    },
+    {
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202103/1012/MrFkXNqIim5naTegtJuGDTEb.png",
+      "name": "Life is Strange True Colors",
+      "category": "Глубокий сюжет, Протагонистка",
+      "description": "Алекс Чэнь от всех скрывает своё «проклятие» — сверхъестественную способность считывать сильные эмоции других и влиять на них. Но когда её брат погибает — якобы в результате несчастного случая, — Алекс использует её, чтобы узнать правду",
+      "price": 1251,
+      "video": "https://www.youtube.com/embed/b6CkzwVAr0M",
+      "id": 16
+    },
+    {
+      "image": "https://cdn.windowsreport.com/wp-content/uploads/2020/06/Rainbow-Six-Siege-packet-loss.jpg",
+      "name": "Tom Clancy's Rainbow Six® Siege",
+      "category": "Тактика, Шутер",
+      "description": "Tom Clancy's Rainbow Six Осада – это продолжение нашумевшего шутера от первого лица, разработанного студией Ubisoft Montreal.",
+      "price": 545,
+      "video": "https://www.youtube.com/embed/6wlvYh0h63k",
+      "id": 17
+    },
+    {
+      "image": "https://i.playground.ru/p/2v9TGshHqew4EbRegevX0g.jpeg",
+      "name": "Grand Theft Auto V",
+      "category": "Открытый мир, Экшен",
+      "description": "Grand Theft Auto V для PC позволяет игрокам исследовать знаменитый мир Лос-Сантоса и округа Блэйн в разрешении до 4k и выше с частотой 60 кадров в секунду.",
+      "price": 1532,
+      "video": "https://www.youtube.com/embed/QkkoHAzjnUs",
+      "id": 18
+    },
+    {
+      "image": "https://cdn1.ozone.ru/s3/multimedia-u/6032030562.jpg",
+      "name": "Assassin’s Creed Valhalla",
+      "category": "Открытый мир, Паркур, РПГ",
+      "description": "Assassin’s Creed Valhalla — мультиплатформенная компьютерная игра в жанре action/RPG, разработанная студией Ubisoft Montreal под издательством компании Ubisoft. Является двенадцатой игрой в серии игр Assassin’s Creed.",
+      "price": 1532,
+      "video": "https://www.youtube.com/embed/ssrNcwxALS4",
+      "id": 19
+    },
+    {
+      "image": "https://i.playground.ru/p/VJ6VgXijaMBxK4xpopFAFw.jpeg",
+      "name": "Metro 2033 Redux",
+      "category": "Шутер от первого лица, Постапокалиптика, Survival horror",
+      "description": "Metro 2033 — видеоигра в жанрах FPS и Survival horror. Сюжет игры основывается на одноимённом романе Дмитрия Глуховского «Метро 2033». Разработкой игры занималась украинская компания 4A Games, большинство сотрудников которой ранее работали в GSC Game World, которая является разработчиком «S.T.A.L.K.E.R.» по мотивам произведения братьев Стругацких «Пикник на обочине».",
+      "price": 1532,
+      "video": "https://www.youtube.com/embed/Yt67BHd-oRA",
+      "id": 20
+    },
+    {
+      "image": "https://vsthemes.org/uploads/posts/2020-01/1580464416_vsthemes_ru-25.jpg",
+      "name": "PlayerUnknown’s Battlegrounds",
+      "category": "Королевская битва, Шутер от третего лица, Шутер от первого лица",
+      "description":  "PlayerUnknown’s Battlegrounds (сокр. PUBG, также известна как PUBG: Battlegrounds) — многопользовательская онлайн-игра в жанре королевской битвы, разрабатываемая и издаваемая студией PUBG Corporation, дочерней компанией корейского издателя Bluehole. Официальной дистрибуцией игры на территории России занимается Mail.Ru Group[3][4]. Игра основана на предыдущих модификациях для других игр, созданных Бренданом Грином (англ. Brendan Greene) под псевдонимом «PlayerUnknown», концепция которых была вдохновлена японским фильмом «Королевская битва» 2000 года. В итоге это привело к созданию самостоятельной игры, где Грин выступил в качестве ведущего геймдизайнера. В игре до 100 игроков, которые десантируются на остров, после чего ищут снаряжение и оружие, чтобы убить других участников и при этом самим остаться в живых. Доступная безопасная зона на внутриигровой карте со временем начинает уменьшаться, делая доступное пространство более тесным, чтобы сталкивать игроков между собой. Последний выживший игрок или команда побеждает в раунде.",
+      "price": 2132,
+      "video": "https://www.youtube.com/embed/URBy9t6e8rY",
+      "id": 21
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/ru/thumb/8/8d/%D0%9E%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0_%D0%B8%D0%B3%D1%80%D1%8B_Darksiders_%D0%B4%D0%BB%D1%8F_X-box_360.jpg/274px-%D0%9E%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0_%D0%B8%D0%B3%D1%80%D1%8B_Darksiders_%D0%B4%D0%BB%D1%8F_X-box_360.jpg",
+      "name": "Darksiders",
+      "category": "hack and slash",
+      "description":  "Darksiders: Wrath of War (Поборники тьмы: Гнев Войны) — компьютерная игра в жанре слешер, разработанная компанией Vigil Games и изданная THQ. Игра берёт свой сюжет из пророчества об апокалипсисе, предоставляя игроку возможность сыграть за одного из его всадников Апокалипсиса — Войну. Игра была выпущена для Xbox 360 и PlayStation 3 5 января 2010 года в Северной Америке и 8 января в Европе. Выход PC-версии Darksiders состоялся в сентябре 2010 года (16 сентября в Северной Америке и 24 сентября — в Европе). В 2012 году вышло продолжение игры — Darksiders II.",
+      "price": 2132,
+      "video": "https://www.youtube.com/embed/2Gkv1we5otE",
+      "id": 22
+    },
+    {
+      "image": "https://mfiles.alphacoders.com/844/844463.jpg",
+      "name": "Darksiders II",
+      "category": "hack and slash, Action/RPG",
+      "description":  "Darksiders II: Death Lives (Поборники тьмы II: Смерть живёт) — компьютерная игра в жанрах слешер и action RPG[3][4], разработанная компанией Vigil Games и изданная THQ. Игра является прямым продолжением Darksiders. В Darksiders II игроку даётся возможность сыграть за другого всадника Апокалипсиса — Смерть, который решил искупить грехи своего брата Войны. Игра вышла 14 августа 2012 года на Windows, PlayStation 3, Xbox 360, также 18 ноября на Wii U, а 27 октября 2015 года вышло переиздание на Playstation 4 и Xbox One. В 2018 году вышло продолжение игры — Darksiders III.",
+      "price": 2132,
+      "video": "https://www.youtube.com/embed/2BFpWELK2dY",
+      "id": 23
+    },
+    {
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co1qqk.jpg",
+      "name": "Darksiders III",
+      "category": "hack and slash, Action/RPG",
+      "description":  "Darksiders III — компьютерная игра в жанрах слешер, action RPG и action-adventure. Разработчиком игры выступила студия Gunfire Games, а издателем — компания THQ Nordic[1]. Игра вышла на платформах PlayStation 4, Xbox One и Windows в 2018 году. Darksiders III является продолжением компьютерной игры Darksiders II и третьей частью серии игр Darksiders.На этот раз игра ведется за еще одного из Всадников Апокалипсиса, единственного среди них персонажа женского пола — Ярость.",
+      "price": 1032,
+      "video": "https://www.youtube.com/embed/SttjjKgf7N8",
+      "id": 24
+    }
+    
+  ],
+  "comments":[
+    
+  ]
+
+}
